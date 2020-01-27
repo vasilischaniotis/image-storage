@@ -1,4 +1,4 @@
-<<template>
+<template>
     <div class="ui secondary pointing menu">
         <router-link to="/" class="active item">
             Image Storage
